@@ -1,0 +1,12 @@
+freerots_demo\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+freerots_demo\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+freerots_demo\port.o: E:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+freerots_demo\port.o: E:\software\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+freerots_demo\port.o: ../Core/Inc/FreeRTOSConfig.h
+freerots_demo\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+freerots_demo\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+freerots_demo\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+freerots_demo\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+freerots_demo\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+freerots_demo\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+freerots_demo\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
